@@ -757,6 +757,11 @@ footer a:hover {
   color: #444;
 }
 
+.styles---iframe---2SYot{
+  width:100%;
+  min-height:1000px;
+}
+
 /* MISC */
 .clearfix:after {
   display: block;
